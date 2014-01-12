@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ludum dare 24", "ludum dare 24\ludum dare 24\ludum dare 24.csproj", "{2B80B99E-7D61-48AD-BE48-5B44C988C80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ludum dare 24Content", "ludum dare 24\ludum dare 24Content\ludum dare 24Content.contentproj", "{6C0EADD9-D703-4E85-BCA2-8CFACAA4E986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Any Cpu|x86 = Any Cpu|x86
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B80B99E-7D61-48AD-BE48-5B44C988C80B}.Any Cpu|x86.ActiveCfg = Any Cpu|x86
+		{2B80B99E-7D61-48AD-BE48-5B44C988C80B}.Any Cpu|x86.Build.0 = Any Cpu|x86
+		{2B80B99E-7D61-48AD-BE48-5B44C988C80B}.Debug|x86.ActiveCfg = Debug|x86
+		{2B80B99E-7D61-48AD-BE48-5B44C988C80B}.Debug|x86.Build.0 = Debug|x86
+		{2B80B99E-7D61-48AD-BE48-5B44C988C80B}.Release|x86.ActiveCfg = Release|x86
+		{2B80B99E-7D61-48AD-BE48-5B44C988C80B}.Release|x86.Build.0 = Release|x86
+		{6C0EADD9-D703-4E85-BCA2-8CFACAA4E986}.Any Cpu|x86.ActiveCfg = Release|x86
+		{6C0EADD9-D703-4E85-BCA2-8CFACAA4E986}.Debug|x86.ActiveCfg = Debug|x86
+		{6C0EADD9-D703-4E85-BCA2-8CFACAA4E986}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
